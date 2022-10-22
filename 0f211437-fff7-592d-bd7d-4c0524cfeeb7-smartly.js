@@ -1,4 +1,4 @@
-/*! For license information please see smartly.js.LICENSE.txt */
+/*! For license information please see LICENSE under https://github.com/sburke781/Smartly-Drag-And-Drop */
 function copyToClipboard(textToCopy) {
     // navigator clipboard api needs a secure context (https)
     if (navigator.clipboard && window.isSecureContext) {
